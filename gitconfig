@@ -1,0 +1,6 @@
+[user]
+	email = thieng4010@gmail.com
+	name = Thien Nguyen
+	password = Haig4010
+[core]
+	excludesfile = ~/.gitignore
